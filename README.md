@@ -8,6 +8,4 @@
 🌱 Always shipping. Always learning.
 
 
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Data+Scientist;An+AI%2FML+enthusiast;A+Python+Developer;Learning+GenAI"](https://readme-typing-svg.demolab.com/demo/?font=google+sans&color=B6B6FF&center=true&vCenter=true&lines=An+AI%2FML+Enthusiast;A+Python+Programmer;A+GenAI+Leaner;A+Data+Scientist)" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=google+sans&pause=1000&color=B6B6FF&center=true&vCenter=true&width=435&lines=An+AI%2FML+Enthusiast;A+Python+Programmer;A+GenAI+Leaner;A+Data+Scientist" alt="Typing SVG" /></a>
