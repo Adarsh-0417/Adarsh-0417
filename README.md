@@ -5,9 +5,9 @@
 </p>
 Excited to connect! I’m a Data Science and AI/ML enthusiast working with Python, Machine Learning, GenAI, and IoT. I enjoy building smart, real-world systems and continuously learning new technologies. Open to collaborations, projects, and opportunities in AI-driven innovation.
 <p>
-🔭 I’m currently working on my Data Science & AI/ML skills  
-⚡ I play with Python, models, and microcontrollers  
-🤐 Testing ideas before testing code  
-💬 Ask me about Machine Learning, Python, GenAI, and IoT  
-📫 Reach me via your-sharmaadarsh.in
+🔭 I’m currently working on my Data Science & AI/ML skills <br>
+⚡ I play with Python, models, and microcontrollers  <br>
+🤐 Testing ideas before testing code  <br>
+💬 Ask me about Machine Learning, Python, GenAI, and IoT  <br>
+📫 Reach me via your-sharmaadarsh.in <br>
 </p>
