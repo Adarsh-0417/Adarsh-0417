@@ -64,22 +64,36 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
  
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<div align="center" style="border:4px solid white; padding:12px; border-radius:8px;">
-
-  <p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </p>
-
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-0417&theme=tokyonight" />
-  </p>
-
-</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8A2BE2&height=2&section=footer" width="100%" />
+  <picture>
+  <source height="150em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&show_icons=true&locale=en" alt="Adarsh-0417">
+  <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417">
+    <image  height="150em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417"/>
+</picture> &nbsp; &nbsp;
+  <picture>
+  <source height="150em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
+  <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417"/>
+</picture>
 </p>
 
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-0417" alt="Adarsh-0417">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-0417&theme=tokyonight" alt="Adarsh-0417">
+    <image src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-0417&theme=tokyonight" alt="Adarsh-0417"/>
+</picture>
+</p>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-0417" align="center" alt="Adarsh-0417">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-0417&theme=tokyonight" align="center" alt="Adarsh-0417">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-0417&theme=tokyonight"/>
+</picture>
+</div>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 ## 🚀 Top Repository
 
 <p align="center">
