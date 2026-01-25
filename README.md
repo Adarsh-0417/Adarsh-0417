@@ -61,13 +61,13 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8A2BE2&height=2&section=footer" width="100%" />
 </p>
-
+ 
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <div align="center" style="border:4px solid white; padding:12px; border-radius:8px;">
 
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&show_icons=true&theme=tokyonight&hide_border=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </p>
 
@@ -80,3 +80,21 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8A2BE2&height=2&section=footer" width="100%" />
 </p>
 
+## 🚀 Top Repository
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-0417&repo=TripMind&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8A2BE2&height=2&section=footer" width="100%" />
+</p>
+
+<h3> 🙌 Thank you for visiting! </h3>
+
+Feel free to explore my repositories and reach out for collaborations or discussions. 😊  
+Let’s turn ideas into intelligent systems.
+
+
+< HAPPY CODING />
+ 
