@@ -1,4 +1,4 @@
-<p align="center" style="font-size:62px; font-weight:bold;">
+<p align="center" style="font-size:62 px; font-weight:bold;">
 Hi there 👋, I am Adarsh!
 </p>
 
