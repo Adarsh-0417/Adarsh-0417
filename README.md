@@ -20,15 +20,14 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
 📫 Reach me via your-sharmaadarsh.in <br>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center" style="border:1px solid white; padding:12px; border-radius:8px;">
+<div align="center" style="border:4px solid white; padding:12px; border-radius:8px;">
 
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-0417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </p>
 
   <p>
