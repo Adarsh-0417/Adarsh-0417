@@ -66,13 +66,13 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
 
 <p align="center">
   <picture>
-  <source height="150em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&show_icons=true&locale=en" alt="Adarsh-0417">
-  <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417">
-    <image  height="150em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417"/>
+  <source height="130em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&show_icons=true&locale=en" alt="Adarsh-0417">
+  <source height="130em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417">
+    <image  height="130em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-0417&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="Adarsh-0417"/>
 </picture> &nbsp; &nbsp;
   <picture>
-  <source height="150em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
-  <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
+  <source height="130em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
+  <source height="130em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417">
     <image src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-0417&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Adarsh-0417"/>
 </picture>
 </p>
