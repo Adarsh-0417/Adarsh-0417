@@ -17,7 +17,7 @@ Excited to connect! I’m a Data Science and AI/ML enthusiast working with Pytho
 ⚡ I play with Python, models, and microcontrollers  <br>
 🤐 Testing ideas before testing code  <br>
 💬 Ask me about Machine Learning, Python, GenAI, and IoT  <br>
-📫 Reach me via your-sharmaadarsh.in <br>
+📫 Reach me via -https://sharmaadarsh.in/ <br>
 </p>
 
 <p align="center">
