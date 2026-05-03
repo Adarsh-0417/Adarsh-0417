@@ -9,6 +9,9 @@ Hi there 👋, I am Adarsh!
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh-0417/Adarsh-0417/main/banner.png" />
 </p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarsh-0417&label=Profile%20Views&color=1E698A&style=flat" alt="Profile Views" />
+</p>
 
 Excited to connect! I’m a Data Science and AI/ML enthusiast working with Python, Machine Learning, GenAI, and IoT. I enjoy building smart, real-world systems and continuously learning new technologies. Open to collaborations, projects, and opportunities in AI-driven innovation. <br><br>
 
