@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:62 px; font-weight:bold;">
 Hi there 👋, I am Adarsh!
 </h1> <br><br>
-      
+          
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=google+sans&size=30&duration=4000&pause=800&color=1E698A&center=true&vCenter=true&width=435&lines=A+Data+Scientist;A+Python+Programmer;An+AI%2FML+Enthusiast" alt="Typing SVG" /></a>
 </p> <br><br>
